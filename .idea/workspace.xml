@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d2122df-4b7e-4685-92d3-7b81e12ca6e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZOwWpexwhESLediSdkzQ1FzoQO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration name="Dashboad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="StudentAttendanceSystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dashboad.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="StudentAttendanceSystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Take_Image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="StudentAttendanceSystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Take_Image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Track_Image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="StudentAttendanceSystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Track_Image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Track_Image" />
+        <item itemvalue="Python.Take_Image" />
+        <item itemvalue="Python.Dashboad" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d2122df-4b7e-4685-92d3-7b81e12ca6e2" name="Default Changelist" comment="" />
+      <created>1584723482855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584723482855</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="660" height="263" key="GridCell.Tab.0.bottom" timestamp="1584732005670">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="660" height="263" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1584732005670" />
+    <state width="660" height="263" key="GridCell.Tab.0.center" timestamp="1584732005669">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="660" height="263" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1584732005669" />
+    <state width="660" height="263" key="GridCell.Tab.0.left" timestamp="1584732005668">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="660" height="263" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1584732005668" />
+    <state width="660" height="263" key="GridCell.Tab.0.right" timestamp="1584732005669">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="660" height="263" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1584732005669" />
+    <state width="660" height="219" key="GridCell.Tab.1.bottom" timestamp="1584727486683">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="660" height="219" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1584727486683" />
+    <state width="660" height="219" key="GridCell.Tab.1.center" timestamp="1584727486681">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="660" height="219" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1584727486681" />
+    <state width="660" height="219" key="GridCell.Tab.1.left" timestamp="1584727486681">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="660" height="219" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1584727486681" />
+    <state width="660" height="219" key="GridCell.Tab.1.right" timestamp="1584727486682">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="660" height="219" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1584727486682" />
+    <state x="172" y="31" key="SettingsEditor" timestamp="1584730243381">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="31" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1584730243381" />
+    <state x="248" y="27" width="496" height="699" maximized="true" key="dock-window-1" timestamp="1584730123016">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="248" y="27" width="496" height="699" maximized="true" key="dock-window-1/0.27.1366.741@0.27.1366.741" timestamp="1584730123016" />
+  </component>
+</project>
